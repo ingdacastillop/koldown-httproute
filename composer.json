@@ -1,0 +1,16 @@
+{
+    "name": "koldown/httproute",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Andres Castillo Pedroza",
+            "email": "ing.dacastillop@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Koldown\\HttpRoute\\": "src/"
+        }
+    }
+}

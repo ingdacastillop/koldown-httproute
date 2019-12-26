@@ -1,6 +1,11 @@
 {
     "name": "koldown/httproute",
+    "description": "Librería que nos permite configurar las rutas de acceso (Endpoints) de nuestros API Web Services creados en Laravel de una manera sencilla y rápida",
     "license": "MIT",
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
     "authors": [
         {
             "name": "Daniel Andres Castillo Pedroza",
